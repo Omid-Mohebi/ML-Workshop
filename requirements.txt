@@ -5,3 +5,4 @@ seaborn>=0.11
 scikit-learn>=1.0
 ipywidgets>=8.0
 ipython>=7.0
+tensorflow
