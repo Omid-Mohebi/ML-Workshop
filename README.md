@@ -1,9 +1,3 @@
-Below is a **clean, academic-appropriate `README.md`** tailored to an **ML workshop repository** used for teaching, matching the current structure you showed and suitable for GitHub.
-
-You can copy–paste this directly.
-
----
-
 # ML-Workshop
 
 This repository contains **workshop teaching materials** for **Prof. Tabatabaei’s Machine Learning course**.
