@@ -1,6 +1,6 @@
 # ML-Workshop
 
-This repository contains **workshop teaching materials** for **Prof. Tabatabaei’s Machine Learning course**.
+This repository contains **workshop teaching materials** for **Prof. Tabatabaei’s Machine Learning course** and **Prof. Jalaei's Computational Intelligence course**.
 The focus is on **hands-on implementation** of core machine learning concepts that are typically introduced in theory-based lectures.
 
 The notebooks are designed to be **self-contained**, **educational**, and **practical**, making them suitable for in-class demonstrations, assignments, and independent study.
@@ -15,7 +15,9 @@ ML-Workshop/
 ├── ML_Evaluation_Metrics.ipynb
 ├── Regression.ipynb
 ├── requirements.txt
+├── CIWorkshop.ipynb (Prof. Jalaei)
 └── README.md
+
 ```
 
 ---
@@ -56,7 +58,20 @@ Topics include:
 
 ---
 
-### 3. `requirements.txt`
+### 3. `CIWorkshop.ipynb`
+
+This notebook follows a workshop progression from mathematical foundations to practical implementations.
+
+Topics include:
+
+* Gradient Descent and Optimization Foundations
+* Single-Layer and Multi-Layer Perceptron
+* Backpropagation
+* Dropout, Underfitting, and Overfitting
+
+---
+
+### 4. `requirements.txt`
 
 Lists all Python dependencies required to run the notebooks, ensuring reproducibility across different environments.
 
